@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541177529 source:d:\c++\arafat\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
